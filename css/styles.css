@@ -12,9 +12,9 @@ h2 {
     color: #8D6C93
 }
 
-header {
-    padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+.special-box {
+    padding: 60px;
+    background-image: url(../portfolio-images/stars.gif);
     color: white;
 }
 
@@ -92,15 +92,20 @@ footer {
 }
 
 @keyframes spin {
-  0% { content:"and bona-fide team-player.🏅"; }
-  20% { content:"and serial hobbyist.📚"; }
-  40% { content:"and canine enthusiast.🐶"; }
-  60% { content:"and tabletop board gamer.🎲"; }
-  80% { content:"and occasional quilter.🪡"; }
-  100% { content:"and restaurant frequenter.🍜"; }
+  0% { content:"and a bona-fide team-player.🏅"; }
+  20% { content:"and a serial hobbyist.📚"; }
+  40% { content:"and a canine enthusiast.🐶"; }
+  60% { content:"and a tabletop board gamer.🎲"; }
+  80% { content:"and an occasional quilter.🪡"; }
+  100% { content:"and a restaurant frequenter.🍜"; }
 }
 
 #special-image {
     height: 40%;
     width: 40%;
 }
+
+footer a:link {
+    text-decoration: none;
+}
+
