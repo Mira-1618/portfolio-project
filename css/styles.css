@@ -9,7 +9,7 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #3046C5
+    color: #8D6C93
 }
 
 header {
@@ -53,11 +53,11 @@ nav li {
     font-size: x-large;
 }
 
-footer a {
+a {
     color: #898BBC;
 }
 
-footer a:hover {
+a:hover {
     color: #64655F;
 }
 
@@ -69,7 +69,15 @@ footer {
     background-color: #CBBBCE;
 }
 
+.contact-btn {
+    background-color: #CBBBCE;
+}
+
 .work-btn:hover {
+    background-color: #AFA3D5;
+}
+
+.contact-btn:hover {
     background-color: #AFA3D5;
 }
 
