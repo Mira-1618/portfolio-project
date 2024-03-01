@@ -115,8 +115,8 @@ footer a:link {
 
 .home-text h1 {
     font-family: "Titan One";
-    color: #FFA101;
-    /*color: #4e4e4e; */
+    /*color: #4e4e4e #FFA101, #332633;*/
+    color: #564456;
 }
 
 .home-card {
