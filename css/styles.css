@@ -109,3 +109,20 @@ footer a:link {
     text-decoration: none;
 }
 
+.home-body {
+    background-image: url(../portfolio-images/background.jpg);
+}
+
+.home-text h1 {
+    font-family: "Titan One";
+    color: #FFA101;
+    /*color: #4e4e4e; */
+}
+
+.home-card {
+    /*border: solid;*/
+    border-radius: 10px;
+    /*border-color: #4e4e4e;*/
+    background-color: rgba(245, 245, 245, 0.858);
+    height: 20em;
+}
