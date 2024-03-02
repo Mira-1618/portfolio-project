@@ -1,7 +1,7 @@
 {
   "name": "portfolio-project",
   "version": "1.0.0",
-  "description": "A fictional campsites review website.",
+  "description": "Miranda's Portfolio",
   "source": "index.html",
   "scripts": {
     "start": "parcel --open",
